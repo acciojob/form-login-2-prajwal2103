@@ -1,5 +1,5 @@
 let form=document.getElementById("form");
-function SubmitForm(event){
+function SubmitForm(){
 	let firstName=document.getElementById("fname");
 	let LastName=document.getElementById("lname");
 	let phoneNumber=document.getElementById("pnum");
